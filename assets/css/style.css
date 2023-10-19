@@ -115,3 +115,12 @@ input:checked + .slider:before {
 #about {
   font-size: 30px;
 }
+
+/* blog */
+.warning {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 2% 15%;
+}
